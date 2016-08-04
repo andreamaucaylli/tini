@@ -1,0 +1,67 @@
+*{
+	font-family: 'Roboto';
+	margin: auto;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+}
+
+header .container-fluid{
+	background-color: #FCCE09;
+	color: white;
+}
+
+ .head nav, .boton{
+	margin-top: 50px;
+}
+
+.lab{
+	background-color: #FCCE09;
+	height: 600px;
+	color: white;
+	display: table;
+	width: 100%;
+}
+
+.center{
+	display: table-cell;
+   	vertical-align: middle;
+}
+
+.boton{
+	padding: 20px;
+	background-color: #FCBA43;
+	border-radius: 5px;
+}
+
+section .lightgray{
+	background-color: #EAEAE9;
+}
+
+section .white{
+	background-color: white;
+	margin: 5px;
+	padding: 10px;
+}
+
+ .white p, h3{
+	width: 100%;
+	text-align: left;
+	padding: 10px;
+}
+
+.square{
+	width: 70%;
+	margin: auto;
+}
+
+footer p{
+	background-color: #262624;
+	color: white;
+	height: 50px;
+	padding: 20px;
+}
